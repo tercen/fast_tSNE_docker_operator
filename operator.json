@@ -1,7 +1,7 @@
 {
   "name": "Fast t-SNE operator",
   "description": "Fast FFT Interpolation-based tSNE operator",
-  "tags": ["basic statistics"],
+  "tags": ["multivariate statistics"],
   "authors": ["tercen"],
   "urls": ["https://github.com/tercen/fast_tSNE_operator"],
   "container": "agouy/fast_tSNE_operator:0.0.1",
