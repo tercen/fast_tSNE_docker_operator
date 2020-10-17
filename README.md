@@ -1,6 +1,6 @@
 # Fast t-SNE Docker Operator
 
-## Build the image
+##### Build the image
 
 ```bash
 VERSION=0.0.1
